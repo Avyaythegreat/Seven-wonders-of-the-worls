@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(98,189,169,1) 65%, rgba(253,187,45,1) 100%);
+    color: white;
+    text-align: center;
+  
+}
+#title{
+    color: red;
+     text-decoration: underline;
+}
